@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585675754631",
+    "project_id": "authenticationandroid4",
+    "storage_bucket": "authenticationandroid4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585675754631:android:2dd065a807aebd68f2fc22",
+        "android_client_info": {
+          "package_name": "com.example.googleauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8XQzB2YZWW58IHodNly_JqgV61Sxe7Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
