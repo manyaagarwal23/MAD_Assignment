@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">GoogleAuthentication</string>
+    <string name="default_web_client_id">585675754631-6b8cae1rofivn801ioeph0omknebgo9v.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">585675754631</string>
+    <string name="google_api_key" translatable="false">AIzaSyB8XQzB2YZWW58IHodNly_JqgV61Sxe7Bg</string>
+    <string name="google_app_id" translatable="false">1:585675754631:android:2dd065a807aebd68f2fc22</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB8XQzB2YZWW58IHodNly_JqgV61Sxe7Bg</string>
+    <string name="google_storage_bucket" translatable="false">authenticationandroid4.firebasestorage.app</string>
+    <string name="project_id" translatable="false">authenticationandroid4</string>
+    <style name="Base.Theme.GoogleAuthentication" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.GoogleAuthentication" parent="Base.Theme.GoogleAuthentication"/>
+</resources>

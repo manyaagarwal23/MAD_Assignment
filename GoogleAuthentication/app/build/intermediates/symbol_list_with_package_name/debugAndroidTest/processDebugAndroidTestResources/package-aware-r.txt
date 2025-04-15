@@ -1,0 +1,3 @@
+com.example.googleauthentication.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
