@@ -24,13 +24,14 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.GoogleAuthProvider;
 
 public class LoginPage extends AppCompatActivity {
-    private static final int RC_SIGN_IN = 100;
+    private static final int RC_SIGN_IN = 900;
     private GoogleSignInClient mGoogleSignInClient;
     private FirebaseAuth mAuth;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        com.google.firebase.FirebaseApp.initializeApp(this);
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_login_page);
 
